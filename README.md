@@ -1,2 +1,2 @@
 # herring
-repository for herring data
+here's typy typing
